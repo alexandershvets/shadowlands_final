@@ -1529,18 +1529,18 @@ body.ie ._ibg img {
   position: relative;
   z-index: 10;
   text-align: center;
-  padding-top: 70px;
-  padding-bottom: 70px;
+  padding-top: 50px;
+  padding-bottom: 87px;
   margin-bottom: -4px;
 }
 @media (max-width: 1700px) {
   .footer {
-    padding-top: calc(60px + 10 * ((100vw - 320px) / 1380));
+    padding-top: calc(40px + 10 * ((100vw - 320px) / 1380));
   }
 }
 @media (max-width: 1700px) {
   .footer {
-    padding-bottom: calc(60px + 10 * ((100vw - 320px) / 1380));
+    padding-bottom: calc(60px + 27 * ((100vw - 320px) / 1380));
   }
 }
 @media (max-width: 479.98px) {
@@ -1549,7 +1549,7 @@ body.ie ._ibg img {
   }
 }
 .footer__copy {
-  margin-bottom: 27px;
+  margin-bottom: 20px;
   font-weight: 700;
   font-size: 14px;
   line-height: 16px;
@@ -1560,17 +1560,12 @@ body.ie ._ibg img {
 .footer__text {
   max-width: 350px;
   margin: 0 auto;
-  margin-bottom: 60px;
+  margin-bottom: 32px;
   font-size: 13px;
   line-height: 16px;
   color: #707070;
   text-align: center;
   text-transform: uppercase;
-}
-@media (max-width: 1700px) {
-  .footer__text {
-    margin-bottom: calc(30px + 30 * ((100vw - 320px) / 1380));
-  }
 }
 .page {
   -webkit-box-flex: 1;
