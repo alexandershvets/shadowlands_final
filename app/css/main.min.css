@@ -1555,6 +1555,7 @@ body.ie ._ibg img {
   z-index: 100;
   top: 5px;
   width: 308px;
+  height: 100vh;
   margin-top: -2px;
   padding: 15px;
   border-radius: 12px;
@@ -1579,7 +1580,7 @@ body.ie ._ibg img {
   }
 }
 .stream__list {
-  height: 100vh;
+  height: 100%;
   overflow: auto;
 }
 .stream__item {
