@@ -2338,7 +2338,7 @@ body.ie ._ibg img {
   -ms-flex-align: center;
   align-items: center;
 }
-@media (max-width: 767.98px) {
+@media (max-width: 1448px) {
   .tabs-server__nav {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
