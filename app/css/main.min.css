@@ -2221,7 +2221,7 @@ body.ie ._ibg img {
   position: relative;
   padding-top: 80px;
   padding-bottom: 65px;
-  background: url("../img/server/shadow.png") center/cover no-repeat;
+  background: url("../img/server/shadow.png") center/102% 102% no-repeat;
 }
 
 ._webp .server {
