@@ -3046,7 +3046,7 @@ body.ie ._ibg img {
 ._webp .info-rock__4 {
   background-image: url(../img/info/rock_04.png?x-oss-process=image/format,webp);
 }
-@media (max-width: 479.98px) {
+@media (max-width: 991.98px) {
   .info-rock__4 {
     display: none;
   }
