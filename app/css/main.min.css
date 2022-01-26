@@ -1,5 +1,12 @@
 @font-face {
   font-family: "Intro";
+  src: url("../fonts/Intro-Regular.woff2") format("woff2"), url("../fonts/Intro-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Intro";
   src: url("../fonts/Intro-Bold.woff2") format("woff2"), url("../fonts/Intro-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
@@ -8,13 +15,6 @@
 @font-face {
   font-family: "RomulC";
   src: url("../fonts/RomulC.woff2") format("woff2"), url("../fonts/RomulC.woff") format("woff");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "Intro";
-  src: url("../fonts/Intro-Regular.woff2") format("woff2"), url("../fonts/Intro-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
