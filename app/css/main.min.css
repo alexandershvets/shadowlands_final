@@ -1855,8 +1855,8 @@ body.ie ._ibg img {
   transition: filter 0.3s ease 0s, -webkit-filter 0.3s ease 0s;
 }
 .main__logo:hover {
-  -webkit-filter: brightness(112%);
-  filter: brightness(112%);
+  -webkit-filter: brightness(116%);
+  filter: brightness(116%);
 }
 @media (max-width: 479.98px) {
   .main__logo {
