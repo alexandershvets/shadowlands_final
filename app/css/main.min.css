@@ -2762,7 +2762,23 @@ body.ie ._ibg img {
     font-size: calc(24px + 6 * ((100vw - 320px) / 1380));
   }
 }
+.slider-info__icon {
+  position: relative;
+  z-index: 1;
+  margin: 0 auto;
+  max-width: 250px;
+  height: 90px;
+  overflow: hidden;
+  -webkit-transform: translateY(20px);
+  -ms-transform: translateY(20px);
+  transform: translateY(20px);
+}
+.slider-info__icon img {
+  max-width: 100%;
+}
 .slider-info__descr {
+  position: relative;
+  z-index: 2;
   font-size: 16px;
   line-height: 118.75%;
   color: #a9a9a9;
