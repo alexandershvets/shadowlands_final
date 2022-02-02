@@ -767,6 +767,7 @@ body.ie ._ibg img {
   font-size: 24px;
   line-height: 120.8333333333%;
   color: #ECA84C;
+  text-align: center;
   text-transform: uppercase;
 }
 .tabs-popup__title_mb {
@@ -776,6 +777,7 @@ body.ie ._ibg img {
   font-size: 18px;
   line-height: 25px;
   color: #707070;
+  text-align: center;
 }
 .tabs-popup__btn {
   display: block;
@@ -2106,6 +2108,7 @@ body.ie ._ibg img {
   line-height: 120%;
   color: #ECA84C;
   text-align: center;
+  text-shadow: 0 0 20px #000;
 }
 @media (max-width: 1700px) {
   .main__title {
