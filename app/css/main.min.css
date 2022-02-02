@@ -767,8 +767,10 @@ body.ie ._ibg img {
   font-size: 24px;
   line-height: 120.8333333333%;
   color: #ECA84C;
-  text-align: center;
   text-transform: uppercase;
+}
+.tabs-popup__title_center {
+  text-align: center;
 }
 .tabs-popup__title_mb {
   margin-bottom: 20px;
@@ -784,9 +786,19 @@ body.ie ._ibg img {
   margin: 20px auto 0;
 }
 @media (max-width: 1380px) {
+  .tabs-popup__title,
+  .tabs-popup__descr {
+    text-align: left;
+  }
   .tabs-popup__btn {
     display: inline-block;
     margin-bottom: 20px;
+  }
+}
+@media (max-width: 479.98px) {
+  .tabs-popup__title,
+  .tabs-popup__descr {
+    text-align: center;
   }
 }
 
