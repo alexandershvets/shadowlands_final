@@ -2683,7 +2683,7 @@ body.ie ._ibg img {
 }
 .block-server__icon {
   position: absolute;
-  top: -5px;
+  top: -11px;
   left: -10px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -2698,7 +2698,7 @@ body.ie ._ibg img {
 }
 .block-server__icon img {
   max-width: 100%;
-  width: 62px;
+  width: 72px;
   height: auto;
 }
 @media (max-width: 1448px) {
